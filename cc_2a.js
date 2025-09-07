@@ -1,6 +1,3 @@
-// Coding Challenge 2a
-
-// Code goes here
 
 const productName = "Jordan Sneakers";
 let costPerUnit = 150.00;
